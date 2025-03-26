@@ -59,4 +59,7 @@ Investors can call the `purchase_bond` function:
 ```move
 purchase_bond(&investor, issuer_address, amount);
 ```
+### **contract address**
+0xf18ae68310e6c51225148c543f9144ee8d5df3692018435e07a09f328679430a
 
+![Screenshot_2025-03-26_11_22_53](https://github.com/user-attachments/assets/f7840998-0dab-4068-9915-569c1f97fded)
